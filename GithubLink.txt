@@ -1,0 +1,6 @@
+### Github Link : https://github.com/Ashmita2282/Youtube_clone
+
+Note :- 
+
+1. All the functionality is working but after every action I need to reload the page.
+2. For now please use a you tube link or any other link to upload without having an upload functionality by selecting from local storage as it's not mentioned there that it is mandatory or not.
